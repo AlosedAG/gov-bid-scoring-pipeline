@@ -1,0 +1,8 @@
+pandas
+numpy
+joblib
+torch
+transformers
+scikit-learn
+rapidfuzz
+torch
